@@ -1,15 +1,29 @@
-<h1 align="center">Hi 👋, I'm Jonatan Luna</h1>
-<h3 align="center">A teacher, actor, coach and now programmer!</h3>
+# Hola! 🎮 I'm Jonatan Luna
 
-- 👨‍💻 All of my projects are available at [xxx](xxx)
+### 🎲 A joyful explorer, gamemaster and friendly guy!
 
-- 📫 How to reach me **jlunera@gmail.com**
+I’m someone who’s always been drilled by the power of play. Whether it’s video games, board games, sports, or theatre, I find ways to turn everything into an adventure. 
+I'm a former preschool teacher who thrives on sparking curiosity and joy, both in and out of my work. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jonatan luna campaña" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonatan luna campaña" height="30" width="40" /></a>
-</p>
+## 🌟 What defines me?
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+- **Game Creator at Heart:** Ever since I can remember, I’ve been inventing games, treasure hunters, riddles.... These days, I’m channeling that energy into coding with Unity and Unreal, taking my passion for play to the next level.  
+- **Theatre & Music Lover:** When I'm not coding, you’ll find me singing in choirs or performing in musicals. Acting, after all, is just another type of game!  
+- **Fitness Enthusiast:** Crossfit keeps me sharp and reminds me that every challenge, like programming, can be a game if you make it fun.  
+- **Passionate Educator:** As a preschool teacher, I’ve learned to use games to learn and make sure my work brings happiness to others.  
+- **Lifelong Learner:** Imposter syndrome is real, but I embrace the challenge. I’m on an exciting journey, improving my skills and contributing wherever I can. This is just the beginning of a new adventure.
 
+## 🎮 My Skills
+- **Programming Languages:** C#, C++, Blueprints.  
+- **Game Engines:** Unity, Unreal Engine.  
+- **Tools:** GitHub, Rider.  
+
+## 🛠️ Current Projects
+1. **Final Exam:** My ultimate school project a creative mobile game/experience built in Unity. (More details coming soon!)  
+2.  
+3.  
+
+## 🤝 Let’s Connect!
+I love chatting about games, music, or just life in general. Let’s collaborate and create something amazing! Meanwhile, feel free to check out my journey (and projects) on GitHub!  
+
+🌟 _Because at the end of the day, life is a game... so let’s make it epic._
