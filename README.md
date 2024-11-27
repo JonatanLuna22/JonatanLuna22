@@ -1,6 +1,8 @@
-# Hola! ✌ I'm Jonatan Luna
+# Hola! I'm Jonatan Luna ✌
 
-![Banner4](https://github.com/user-attachments/assets/72beb7bf-52db-4d56-bcfb-d788f94d7dbf)
+Game design and programming
+
+![Banner2](https://github.com/user-attachments/assets/546ad076-66fd-4543-9f03-b3fc976f76a1)
 
 I’m someone who’s always been drilled by the power of play. Whether it’s video games, board games, sports, or theatre, I find ways to turn everything into an adventure. 
 I'm a former preschool teacher who thrives on sparking curiosity and joy, both in and out of my work. 
