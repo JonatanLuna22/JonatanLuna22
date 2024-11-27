@@ -1,6 +1,8 @@
 # Hola! I'm Jonatan Luna ✌
 
-### _**Game design and Programming**_
+<center>
+  <h1> ### _**Game design and Programming**_  </h1>
+
 
 ![Banner2](https://github.com/user-attachments/assets/546ad076-66fd-4543-9f03-b3fc976f76a1)
 
