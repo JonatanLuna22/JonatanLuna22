@@ -18,7 +18,7 @@ I'm a former preschool teacher who thrives on sparking curiosity and joy, both i
 - **Game Engines:** Unity, Unreal Engine.  
 - **Tools:** GitHub, Rider.  
 
-## 🛠️ Current Projects
+## 🛠️ Last Projects
 1. **Final Exam:** My ultimate school project a creative mobile game/experience built in Unity. (More details coming soon!)  
 2.  
 3.  
