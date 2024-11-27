@@ -1,4 +1,4 @@
-# Hola! 🎮 I'm Jonatan Luna
+# Hola! ✌ I'm Jonatan Luna
 
 ### 🎲 A joyful explorer, gamemaster and friendly guy!
 
